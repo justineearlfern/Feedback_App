@@ -8,5 +8,16 @@ npm install
 react-native run-android
 ```
 If everything is set up correctly, you should see your new app running in your Android emulator shortly.
+<img src="(https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png" width="100" height="100">
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/02.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/03.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/04.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/05.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/06.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/07.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/08.png?=20x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/09.png?=20x20)
 
-![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png? = 20 x 20)
+
+
