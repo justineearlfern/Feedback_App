@@ -11,14 +11,16 @@ If everything is set up correctly, you should see your new app running in your A
 
 <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png" width="300" />   <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/02.png" width="300" />
 
+Once you log in you can see the Dashboard and drawer for the details about the app.
 
 <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/03.png" width="300" />    <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/04..jpg" width="300" />
 
+Each card represent the function of 5R in the app
 
 <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/05.png" width="300" />   <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/06.png" width="300" />  
 
 
-<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/07.png" width="300" />    <img src="(https://github.com/justineearlfern/Feedback_App/blob/master/photo/08.png" width="300" /> 
+<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/07.png" width="300" />    <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/08.png" width="300" /> 
 
 <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/09.png" width="300" />
 
