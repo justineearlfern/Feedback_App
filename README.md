@@ -15,11 +15,7 @@ If everything is set up correctly, you should see your new app running in your A
 <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/03.png" width="300" />  <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/04.png" width="300" />
 
 
-<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/05.png" width="300" />
-<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/06.png" width="300" />
-<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/07.png" width="300" />
-<img src="(https://github.com/justineearlfern/Feedback_App/blob/master/photo/08.png" width="300" />
-<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/09.png" width="300" />
+<img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/05.png" width="300" />  <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/06.png" width="300" />  <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/07.png" width="300" />  <img src="(https://github.com/justineearlfern/Feedback_App/blob/master/photo/08.png" width="300" /> <img src="https://github.com/justineearlfern/Feedback_App/blob/master/photo/09.png" width="300" />
 
 
 
