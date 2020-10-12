@@ -4,7 +4,10 @@ import {Text, Button, FormInput, FormTextArea} from '@99xt/first-born';
 import {Image} from 'react-native';
 import ImagePicker from 'react-native-image-picker';
 import Connection from '../common/Connection';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 725d5a18fdd6e22a5aa424a0d1c28253adc39992
 const connection = new Connection();
 
 export class Home extends Component {
