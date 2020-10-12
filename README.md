@@ -9,4 +9,4 @@ react-native run-android
 ```
 If everything is set up correctly, you should see your new app running in your Android emulator shortly.
 
-![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png?raw=true=50x20)
+![alt text](https://github.com/justineearlfern/Feedback_App/blob/master/photo/01.png?raw=true=20x20)
